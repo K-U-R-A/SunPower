@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SunPower</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="battery_state">Battery states</string>
+    <string name="splshimg">splashimg</string>
+</resources>
